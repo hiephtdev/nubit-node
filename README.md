@@ -6,7 +6,8 @@
 | CPU (amd64/x86 architecture) | 1 core | 	4 core |
 | Storage (SSD) | 20-40 GB | 200-300 GB |
 **OS Recommended Ubuntu 22.04**
-Run Light Node
+
+##Run Light Node
 1. Run script
 ```bash
 curl -sL1 https://nubit.sh
