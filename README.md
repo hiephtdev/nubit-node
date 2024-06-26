@@ -5,7 +5,8 @@
 | RAM | 2GB | 8GB |
 | CPU (amd64/x86 architecture) | 1 core | 	4 core |
 | Storage (SSD) | 20-40 GB | 200-300 GB |
-**OS Recommended Ubuntu 22.04**
+
+***OS Recommended and guilde based on Ubuntu 22.04***
 
 ## Run Light Node
 1. Run script
