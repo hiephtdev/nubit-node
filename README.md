@@ -17,7 +17,7 @@ curl -sL1 https://nubit.sh | bash
 
 3. Chạy lệnh bash dưới để tạo service
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/hiephtdev/nubit-node/main/light-node-service.sh)
+curl -sL1 https://raw.githubusercontent.com/hiephtdev/nubit-node/main/light-node-service.sh | bash
 ```
 
 4. Kiểm tra trang thái service -> Kết thúc
