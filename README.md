@@ -11,7 +11,7 @@
 ## Run Light Node
 1. Run script
 ```bash
-curl -sL1 https://nubit.sh
+curl -sL1 https://nubit.sh | bash
 ```
 2. Đợi gen xong PUBKEY, nhấn Ctrl + C để hoàn thành node
 
